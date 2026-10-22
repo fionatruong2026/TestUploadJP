@@ -1,0 +1,99 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "3,9": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "4,33": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "4,33": 0,
+      "4,34": 0,
+      "4,35": 0,
+      "4,36": 0,
+      "4,37": 0,
+      "4,38": 0,
+      "4,39": 0,
+      "4,40": 0,
+      "4,41": 0,
+      "4,42": 0,
+      "4,43": 0,
+      "5,33": 0,
+      "5,34": 0,
+      "5,35": 0,
+      "5,36": 0,
+      "5,37": 0,
+      "5,38": 0,
+      "5,39": 0,
+      "5,40": 0,
+      "5,41": 0,
+      "5,42": 0,
+      "5,43": 0,
+      "6,33": 0,
+      "6,34": 0,
+      "6,35": 0,
+      "6,36": 0,
+      "6,37": 0,
+      "6,38": 0,
+      "6,39": 0,
+      "6,40": 0,
+      "6,41": 0,
+      "6,42": 0,
+      "6,43": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "3,9,3,11",
+    "4,33,3,11"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//QBf1F2tqAYFkW5qeTcfWSSTRVRkFIJSKrxICTV17zSkXTDurpFvvMef4G38gOY0K8oQDKqzaUvB1REh0PLzLGFHi2NswtJW+kDejcdYGpKOUn0j8aTG3rusuH11un+tKo1SFPCHP7ioaFHwdRBRBdTDKcEKneGlu1GenFxAtpC43xz7IHKJ8f9lPJeWnVmD8ZOihDXbpXWakMCqcBzKl9Le09Qjp7FOlDFuBnHoYxMnSUaqP+eMD2r3o2rE1XUzkZsdGr+9Ip9FgZFg2jUtD+Yb3JhpByhQWiwRhk1MxtIJ4RnxYYH6iWrehWyywBqds4P1OKSoWSPXiovMdgbBF2jZE3WyKjO4uhQlZP70rkUZr2r/iN9605fPANMjNW2SvBT4X4nBl3AVJ6PsOh1eDRZF1vcXX2/AYJQrLF4dUKtSylL3xTQFeE6jJJnzFsBjLisYiISkHmC3oxuBV0a5ptT4Ge/lCYP98hA/BTe831dDldEjjtwwVIsB1uFZyXBZbfnS3K+4n0aTLPStAdyAQiM+yJXrsQFlfjudnO3VK17P+onAUclHPGlDrz+w9CCOLzIiQDOjxJWWVx1i/ar9c6y0EPFiYGKzF9xmgaWXvROyQZmu7c+zrLPBZ93A9x+72qCYhUAP646OKWiGY7bQ8KvnJE0P4EPl3ZUoY2L88AZUyZFTuQDA4IlKq03J4wqlmxVkjtPEa6wH7eoVWHTOIlXzXre2AffW2YZDvAcpSUZyVAzYsOzJW9Qzm6QDc4wQOFQ3TMq5ZBFSWlSDwHLxjwuSd5h+YOghuqOTAnycoHq8+s5rXTH8/JrOib0w9JgulEpatslyeVgH1afuDPr5fi/IEnk6bHKkm6UKKxz19+oBj4dqsIJh4AR9xSQmrgU0KKkm/SNnLlC2l8SckSlCZcQ==|920
